@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/BusfyJan/mimetype-rename#readme",
   "dependencies": {
-    "mime-type": "^3.0.5"
+    "mime-types": "^2.1.17",
+    "mmmagic": "^0.4.6",
+    "recursive-readdir": "^2.2.1",
+    "replace-ext": "^1.0.0"
   }
 }

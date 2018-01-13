@@ -1,2 +1,9 @@
 # mimetype-rename
-Renames files in directory depending on their mimetypes
+Updates file extensions depending on their mimetypes
+
+## Usage
+```javascript
+const mimetypeRename = require('mimetype-rename');
+
+mimetypeRename('/path/to/folder/with/files');
+```
