@@ -1,0 +1,23 @@
+{
+  "name": "mimetype-rename",
+  "version": "1.0.0",
+  "description": "Renames files in directory depending on their mimetypes",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BusfyJan/mimetype-rename.git"
+  },
+  "keywords": [
+    "mimetype",
+    "rename"
+  ],
+  "author": "Jan Busfy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BusfyJan/mimetype-rename/issues"
+  },
+  "homepage": "https://github.com/BusfyJan/mimetype-rename#readme",
+  "dependencies": {
+    "mime-type": "^3.0.5"
+  }
+}
